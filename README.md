@@ -1,6 +1,6 @@
 # Cashflow Relay
 
-- [Cashflowrelay Portal](https://www.cashflowrelay.com/)
+- [CashflowRelay Portal](https://www.cashflowrelay.com/)
 - [Mainnet](https://mainnet.cashflowrelay.com/)
 
 ## For frontend (in root folder)
