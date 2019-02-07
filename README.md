@@ -1,6 +1,6 @@
 # Cashflow Relay
 
-- [Main Page](https://www.cashflowrelay.com/)
+- [Cashflowrelay Portal](https://www.cashflowrelay.com/)
 - [Mainnet](https://mainnet.cashflowrelay.com/)
 
 ## For frontend (in root folder)
@@ -15,7 +15,7 @@
 - ```npm run prod``` for production environment in watch mode
 
 ### To build locally (see build folder)
-- ```npm run build:dev``` for development environment without watch mode
+- ```Pagenpm run build:dev``` for development environment without watch mode
 - ```npm run build:prod``` for production environment without watch mode
 
 ### To start bundle analyzer
