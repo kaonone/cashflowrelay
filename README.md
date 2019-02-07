@@ -1,6 +1,6 @@
 # cashflowrelay
 
-[Demo Page](https://testnet.cashflowrelay.com/)
+[Main Page](https://mainnet.cashflowrelay.com/)
 
 ## For frontend (in root folder)
 ### Install all dependencies
