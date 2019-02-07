@@ -1,4 +1,4 @@
-# Cashflow Relay
+# CashflowRelay
 
 - [CashflowRelay Portal](https://www.cashflowrelay.com/)
 - [Mainnet](https://mainnet.cashflowrelay.com/)
