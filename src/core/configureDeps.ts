@@ -31,7 +31,7 @@ const contracts: IContract[] = [
     ...C2FCFull,
     networks: {
       ...C2FCFull.networks,
-      '42': {
+      [NETWORK_CONFIG.id]: {
         address: NETWORK_CONFIG.c2fcContract,
       },
     },
