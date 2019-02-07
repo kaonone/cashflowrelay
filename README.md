@@ -1,7 +1,7 @@
 # Cashflow Relay
 
-[Main Page](https://www.cashflowrelay.com/)
-[Mainnet](https://mainnet.cashflowrelay.com/)
+- [Main Page](https://www.cashflowrelay.com/)
+- [Mainnet](https://mainnet.cashflowrelay.com/)
 
 ## For frontend (in root folder)
 ### Install all dependencies
