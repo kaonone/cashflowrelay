@@ -23,8 +23,8 @@ const networkConfigs: Record<string, INetworkConfig> = {
     id: 1,
     rpcUrl: 'https://mainnet.infura.io/',
     daiContract: '0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359',
-    aktContract: '',
-    c2fcContract: '0x98466a02404b939c5ee34030c3aab8a47aab80ab',
+    aktContract: '0x395f47e890cd81307c5fa8814771b93100283daa',
+    c2fcContract: '0x027C01aa98f530Deb4357C0DD479C951b36b153b',
     OxContracts: getContractAddressesForNetworkOrThrow(1),
   },
 };
