@@ -1,7 +1,7 @@
-# Cashflow Relay Testnet
+# Cashflow Relay Mainnet
 
 - [CashflowRelay Portal](https://www.cashflowrelay.com/)
-- [Testnet app](https://testnet.cashflowrelay.com/)
+- [Mainnet app](https://mainnet.cashflowrelay.com/)
 - [C2FC](https://github.com/akropolisio/c2fc-specs)
 
 ## For frontend (in root folder)
@@ -16,7 +16,7 @@
 - ```npm run prod``` for production environment in watch mode
 
 ### To build locally (see build folder)
-- ```npm run build:dev``` for development environment without watch mode
+- ```Pagenpm run build:dev``` for development environment without watch mode
 - ```npm run build:prod``` for production environment without watch mode
 
 ### To start bundle analyzer

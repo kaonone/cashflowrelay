@@ -24,11 +24,11 @@ const networkConfigs: Record<string, INetworkConfig> = {
     rpcUrl: 'https://mainnet.infura.io/',
     daiContract: '0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359',
     aktContract: '',
-    c2fcContract: '',
+    c2fcContract: '0x98466a02404b939c5ee34030c3aab8a47aab80ab',
     OxContracts: getContractAddressesForNetworkOrThrow(1),
   },
 };
 
 export const NETWORK_CONFIG = networkConfigs[getEnvParams().network];
-export const RELAYER_URL = 'https://api.cashflowrelay.com/v2';
+export const RELAYER_URL = 'https://api-mainnet.cashflowrelay.com/v2';
 export const ROUTES_PREFIX = '';
